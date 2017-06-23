@@ -1,0 +1,24 @@
+{
+  "name": "imooc",
+  "authors": [
+    "xueyang <1120880710@qq.com>"
+  ],
+  "description": "justtest",
+  "main": "app.js",
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
